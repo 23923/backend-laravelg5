@@ -17,7 +17,7 @@
     "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "true",
-    "APP_URL": "https://vercel.com/hsanhachichagmailcoms-projects",
+    "APP_URL": "https://vercel.com/marems-projects-4de6959b",
     "APP_KEY": "base64:42umeIXjEMmoG6RBjtRKa3Fmy1TJt4i/tZFA8sgutIk=",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
